@@ -1,4 +1,4 @@
-NAME = "riverfog0"
+NAME = "riverfog7"
 
 
 def print_message(input_str: str) -> str:
